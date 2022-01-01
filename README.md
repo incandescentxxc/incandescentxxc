@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=incandescentxxc&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,005AA7,FFFDE4)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=incandescentxxc&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,005AA7,FFFDE4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcePear-Jzx&layout=compact&langs_count=6&hide=SystemVerilog,Assembly,Verilog)](https://github.com/anuraghazra/github-readme-stats)
 
