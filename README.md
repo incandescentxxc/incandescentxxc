@@ -1,8 +1,6 @@
 ### Hi there 👋
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=incandescentxxc&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,7F7FD5,86A8E7,91EAE4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IcePear-Jzx&layout=compact&langs_count=6&hide=SystemVerilog,Assembly,Verilog)](https://github.com/anuraghazra/github-readme-stats)
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=incandescentxxc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&bg_color=30,7F7FD5,86A8E7,91EAE4" alt="Xiaochuan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incandescentxxc&layout=compact&langs_count=6&hide=SystemVerilog,Assembly,Verilog&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **incandescentxxc/incandescentxxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
