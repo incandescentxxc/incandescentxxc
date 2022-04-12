@@ -1,5 +1,4 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=incandescentxxc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&bg_color=30,7F7FD5,86A8E7,91EAE4" alt="Xiaochuan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incandescentxxc&layout=compact&langs_count=6&hide=SystemVerilog,Assembly,Verilog&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=incandescentxxc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&bg_color=30,7F7FD5,86A8E7,91EAE4" alt="Xiaochuan's github stats" /></a> 
 
 <!--
 **incandescentxxc/incandescentxxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
